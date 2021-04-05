@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971502317926",
+    "project_id": "up-time-tracker-flutter-e3e3c",
+    "storage_bucket": "up-time-tracker-flutter-e3e3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971502317926:android:905f13c949be7b4f2258a7",
+        "android_client_info": {
+          "package_name": "com.example.time_tracker_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971502317926-65g65pd8ho72v6umvbfvmsct0bm0irpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8UrdDquzCVR_VQG2mcYLtzokdsTf8LAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971502317926-65g65pd8ho72v6umvbfvmsct0bm0irpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
